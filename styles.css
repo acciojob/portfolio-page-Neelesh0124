@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+*{
+	font-family: arial;
+}
+#navbar {
+	display:flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 40px;
+	width:100%;
+	background-color:black;
+}
+h1{
+	color:white;
+	font-size: 20px;
+}
+#navbar>a{
+	color:white;
+	text-decoration:none;
+}
+img{
+	margin-top: 20px;}
+.profile{
+	color: black;
+}
